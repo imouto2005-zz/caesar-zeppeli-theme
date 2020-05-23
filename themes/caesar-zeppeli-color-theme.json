@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		// "editor.background": "#203445",
-		"editor.background": "#375d7d",
+		"editor.background": "#325775",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#ffffff"
@@ -101,8 +101,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF",
-				// "foreground": "#b0f1aa"
+				// "foreground": "#89DDFF",
+				"foreground": "#82AAFF"
 			}
 		},
 		{
