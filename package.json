@@ -1,0 +1,21 @@
+{
+    "name": "caesar-zeppeli-theme",
+    "displayName": "caesar-zeppeli-theme",
+    "description": "the best bubble boy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "caesar-zeppeli",
+                "uiTheme": "vs-dark",
+                "path": "./themes/caesar-zeppeli-color-theme.json"
+            }
+        ]
+    }
+}
