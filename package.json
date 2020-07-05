@@ -4,7 +4,7 @@
     "description": "a theme inspired by the color scheme of the best bubble boy",
     "publisher": "imouto2005",
     "repository": "https://github.com/imouto2005/caesar-zeppeli-theme",
-    "icon": "https://i.imgur.com/QdXG8Fl.png",
+    "icon": "icon.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
