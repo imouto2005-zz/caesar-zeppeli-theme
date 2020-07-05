@@ -2,6 +2,9 @@
     "name": "caesar-zeppeli-theme",
     "displayName": "caesar-zeppeli-theme",
     "description": "the best bubble boy",
+    "publisher": "imouto2005",
+    "repository": "https://github.com/imouto2005/caesar-zeppeli-theme",
+    "icon": "https://pbs.twimg.com/profile_images/1271140816522797058/Cby8IJbB_400x400.jpg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
