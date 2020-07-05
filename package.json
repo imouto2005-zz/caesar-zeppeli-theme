@@ -5,7 +5,7 @@
     "publisher": "imouto2005",
     "repository": "https://github.com/imouto2005/caesar-zeppeli-theme",
     "icon": "icon.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.45.0"
     },
