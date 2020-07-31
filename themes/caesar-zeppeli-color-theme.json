@@ -2,9 +2,11 @@
 	"name": "caesar-zeppeli",
 	"type": "dark",
 	"colors": {
-		// "editor.background": "#203445",
 		"editor.background": "#325775",
 		"editor.foreground": "#eeffff",
+		"selection.background": "#eeffff",
+		"editor.selectionBackground": "#677575",
+		"editor.selectionHighlightBackground": "#677575",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#ffffff"
 	},
@@ -576,7 +578,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#325775"
 			}
 		},
 		{
@@ -585,7 +587,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#557ea0"
 			}
 		},
 		{
